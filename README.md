@@ -1,4 +1,4 @@
-PhoenixMax Ravencoin Stratum - v1.0.1 Special Edition
+Crypticwizardry Ravencoin Stratum - v1.0 Baseline Edition
 ================
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://opensource.org/licenses/GPL-3.0)
